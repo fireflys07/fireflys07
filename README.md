@@ -1,12 +1,12 @@
-<img data-importer="image" align="left" height="350" src="https://media1.tenor.com/m/eoYsGxUgcvYAAAAC/wolf-fox.gif"  />
+<img data-importer="image" height="350" src="https://media1.tenor.com/m/eoYsGxUgcvYAAAAC/wolf-fox.gif"  />
 
 ###
 
-<h2 data-importer="text" align="left">Дарова! Im Mozzhukhin Mark. Nice to meet you here ^^</h2>
+<h2 data-importer="text" >Дарова! Im Mozzhukhin Mark. Nice to meet you here ^^</h2>
 
 ###
 
-<div data-importer="stats" align="left">
+<div data-importer="stats">
   <img src="https://raw.githubusercontent.com/fireflys07/fireflys07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/fireflys07/fireflys07/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
